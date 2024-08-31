@@ -1,0 +1,19 @@
+{
+    "place_id": 258173885,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 169254,
+    "boundingbox": [
+        "41.8458296",
+        "41.8922883",
+        "-103.6950644",
+        "-103.6269388"
+    ],
+    "lat": "41.862302",
+    "lon": "-103.6627088",
+    "display_name": "Scottsbluff, Scotts Bluff County, Nebraska, 69361, United States",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.6634638421800052,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"
+}
